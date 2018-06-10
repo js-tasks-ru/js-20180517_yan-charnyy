@@ -5,6 +5,8 @@
  * @param   {string} str -  входные данные
  * @returns {{min:number, max:number}}  объект
  */
+
+//new commit
 function getMinMax(str) {
     let numbers = [];
     numbers = findNumber(str);
